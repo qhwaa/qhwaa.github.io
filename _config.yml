@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "신규화"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/temporary.jpg"
   bio              : "Data Science"
   location         : 
   email            : 
