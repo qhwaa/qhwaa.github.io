@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "Home"
+    url: "https://qhwaa.github.io"
   - title: "About"
-    url: /about/
+    url: /about/ 

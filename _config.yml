@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "규화 | Touch The Sky"
-title_separator          : "-"
+title                    : "Fly, Touch The Sky"
+title_separator          : "|"
 name                     : "신규화"
-description              : "An amazing website."
+description              : "I'm up in the spot lookin' extra fly"
 url                      : "https://qhwaa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "qhwaa/qhwaa.github.io"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "신규화"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person. \n hello"
+  bio              : "Data Science"
   location         : 
   email            : 
   links:
@@ -279,7 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
